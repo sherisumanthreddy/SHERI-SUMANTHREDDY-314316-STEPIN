@@ -1,5 +1,7 @@
 # Mini_project
 
+--- Designing of calculator to perform mathematical operations using c language.
+
 ![code quality score](https://www.code-inspector.com/project/24891/score/svg)
 
 
