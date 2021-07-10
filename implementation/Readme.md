@@ -5,7 +5,4 @@ Folder             | Description
 1_inc              | All header files
 2_src              | Main source code for calculator
 3_test             | All source code and data for testing purposes
-4__build           | Build output (Not included in git)
-`
-
-    
+4__build           | Build output (Not included in git
